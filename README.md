@@ -2,11 +2,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Diego-DevsS/Diego-DevsS/main/image/gg.gif" height="160px" />
 
-Atsushi or better Arthur, is a programmer specialized in web therefore knowing software developer and data.
+Hello, my name is Atsushi or Arthur i'm a web developer that knows software developer and data.
 
-Currently freelancing and doing open-source projects here on <a href="https://github.com/">Github</a>. Who knows, you might not pay me a cup of <a href="https://ko-fi.com/atsushisushi" target="_blank">coffee</a> to boost my codes.
+Currently I'm free-lancer, doing some open-source projects here on <a href="https://github.com/">Github</a>. you might pay me a <a href="https://ko-fi.com/atsushisushi" target="_blank">coffee</a> to boost my codes.
 
-Projects are done fully responsive and working normally, or if you have a loan and have a problem. <a href="https://github.com/Dev-Atsushi/">Report</a>.
+Projects are done fully responsive and working properly, if you had a problem please <a href="https://github.com/Dev-Atsushi/">Report</a>.
 
 <div align="right" width="700">
     <img align="center" src="https://i.imgur.com/hkpVEvr.png" title="html5" width="25"/>&nbsp;
