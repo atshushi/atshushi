@@ -35,6 +35,7 @@ Projects are done fully responsive and working properly, if you had a problem pl
     <img align="center" src="https://i.imgur.com/Xv8A11L.png" title="tailwindcss" width="25"/>&nbsp;
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg" title="mysql" width="25"/>&nbsp;
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/elixir/elixir-original.svg" title="elixir" width="25"/>&nbsp;
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/yarn/yarn-original.svg" title="yarn" width="25"/>&nbsp;
 </div>
 
 <!--## Technologies and tools・💻
