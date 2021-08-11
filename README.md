@@ -31,7 +31,6 @@ Projects are done fully responsive and working properly, if you had a problem pl
     <img align="center" src="https://i.imgur.com/e7omycw.png" title="nextjs" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/u5s2vbq.png" title="vuejs" width="25"/>&nbsp;
     <br />
-    <img align="center" src="https://i.imgur.com/e8W17pa.png" title="cplusplus" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/Fa3sdaT.png" title="jquery" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/Xv8A11L.png" title="tailwindcss" width="25"/>&nbsp;
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg" title="mysql" width="25"/>&nbsp;
