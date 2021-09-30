@@ -13,25 +13,20 @@ Projects are done fully responsive and working properly, if you had a problem pl
     <img align="center" src="https://i.imgur.com/nxsNQ9M.png" title="css3" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/AsQqunT.png" title="javascript"width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/JxP3cZE.png" title="typescript" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/YWkyeFO.png" title="bootstrap" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/zUvGK9u.png" title="expressjs" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/Nhuq1Gt.png" title="nodejs" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/tHz49Lt.png" title="npm" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/WPOuZqI.png" title="git" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/DZjNb1T.png" title="mongodb" width="25"/>&nbsp;
     <br />
     <img align="center" src="https://i.imgur.com/bxqKdqe.png" title="firebase" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/O1X88tn.png" title="python" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/zFIaVNv.png" title="electron" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/ZcIJUio.png" title="gulp" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/8zi7SYt.png" title="webpack" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/9DbVTos.png" title="sass" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/uQuB4Cn.png" title="react" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/d2YDW7g.png" title="bash" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/e7omycw.png" title="nextjs" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/u5s2vbq.png" title="vuejs" width="25"/>&nbsp;
     <br />
-    <img align="center" src="https://i.imgur.com/Fa3sdaT.png" title="jquery" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/Xv8A11L.png" title="tailwindcss" width="25"/>&nbsp;
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg" title="mysql" width="25"/>&nbsp;
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/elixir/elixir-original.svg" title="elixir" width="25"/>&nbsp;
