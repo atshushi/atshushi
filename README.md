@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Diego-DevsS/Diego-DevsS/main/image/gg.gif" height="160px" />
 
-Hello, my name is Shushi or Arthur i'm a web developer.                                                                                                                                                       
+Hello, my name is Shushi or Arthur i'm a web developer. I love elixir and javascript/typescript <3                                                                                                                                                    
 
 Currently I'm free-lancer, doing some open-source projects here on <a href="https://github.com/">Github</a>. you might pay me a <a href="https://ko-fi.com/atsushisushi" target="_blank">coffee</a> to boost my codes.
 
