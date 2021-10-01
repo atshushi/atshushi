@@ -23,11 +23,10 @@ Projects are done fully responsive and working properly, if you had a problem pl
     <img align="center" src="https://i.imgur.com/ZcIJUio.png" title="gulp" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/8zi7SYt.png" title="webpack" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/uQuB4Cn.png" title="react" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/d2YDW7g.png" title="bash" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/e7omycw.png" title="nextjs" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/u5s2vbq.png" title="vuejs" width="25"/>&nbsp;
-    <br />
     <img align="center" src="https://i.imgur.com/Xv8A11L.png" title="tailwindcss" width="25"/>&nbsp;
+    <br />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg" title="mysql" width="25"/>&nbsp;
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/elixir/elixir-original.svg" title="elixir" width="25"/>&nbsp;
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/yarn/yarn-original.svg" title="yarn" width="25"/>&nbsp;
