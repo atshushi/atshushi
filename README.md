@@ -32,6 +32,7 @@ Projects are done fully responsive and working properly, if you had a problem pl
     <img align="center" src="https://cms-react-testing.cdn.prismic.io/cms-react-testing/fd794b96-f464-432b-b79a-bf99341b2143_insomnia-logo-bug.svg" title="insomnia" width="25"/>&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="25" />&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="25" />&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="25" />&nbsp;
 </div>
 
 <!--## Technologies and tools・💻
