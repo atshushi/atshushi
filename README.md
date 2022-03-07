@@ -72,8 +72,4 @@ Projects are done fully responsive and working properly, if you had a problem pl
   <a href="https://discord.com/users/852650555254767676" target="_blank">
     <img width="50%" alt="Discord" src="https://lanyard.cnrad.dev/api/852650555254767676?bg=1f1f1f&borderRadius=5px">
   </a>
-  <br />
-  <a href="https://ko-fi.com/atsushisushi" target="_blank">
-    <img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" border="0" alt='Buy a coffee for me ko-fi.com' />
-  </a>
 </p>
