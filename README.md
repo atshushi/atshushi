@@ -14,17 +14,16 @@
     <img align="center" src="https://i.imgur.com/Nhuq1Gt.png" title="nodejs" width="30"/>&nbsp;
     <img align="center" src="https://i.imgur.com/WPOuZqI.png" title="git" width="30"/>&nbsp;
     <img align="center" src="https://i.imgur.com/DZjNb1T.png" title="mongodb" width="30"/>&nbsp;
-    <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://i.imgur.com/bxqKdqe.png" title="firebase" width="30"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/bxqKdqe.png" title="firebase" width="30"/>&nbsp;
     <img align="center" src="https://i.imgur.com/zFIaVNv.png" title="electron" width="30"/>&nbsp;
     <img align="center" src="https://i.imgur.com/ZcIJUio.png" title="gulp" width="30"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/8zi7SYt.png" title="webpack" width="30"/>&nbsp;
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://i.imgur.com/8zi7SYt.png" title="webpack" width="30"/>&nbsp;
     <img align="center" src="https://i.imgur.com/uQuB4Cn.png" title="react" width="30"/>&nbsp;
     <img align="center" src="https://i.imgur.com/e7omycw.png" title="nextjs" width="30"/>&nbsp;
     <img align="center" src="https://i.imgur.com/u5s2vbq.png" title="vuejs" width="30"/>&nbsp;
     <img align="center" src="https://i.imgur.com/Xv8A11L.png" title="tailwindcss" width="30"/>&nbsp;
-    <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/elixir/elixir-original.svg" title="elixir" width="30"/>&nbsp;
+     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/elixir/elixir-original.svg" title="elixir" width="30"/>&nbsp;
     <img align="center" src="https://cms-react-testing.cdn.prismic.io/cms-react-testing/fd794b96-f464-432b-b79a-bf99341b2143_insomnia-logo-bug.svg" title="insomnia" width="30"/>&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="30" />&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="30" />&nbsp;
