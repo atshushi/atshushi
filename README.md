@@ -4,7 +4,7 @@
   Hey! My name is Arthur i'm a web developer. I love scala, elixir and javascript/typescript <3 <br />
 </p>
 
-<h1>&nbsp;&nbsp; 💻・Technologys: </h1>
+<h1>&nbsp;&nbsp; 💻・Technologies: </h1>
 <div width="1700">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://i.imgur.com/hkpVEvr.png" title="html5" width="30"/>&nbsp;
     <img align="center" src="https://i.imgur.com/nxsNQ9M.png" title="css3" width="30"/>&nbsp;
