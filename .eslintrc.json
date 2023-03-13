@@ -4,10 +4,6 @@
     "browser": true
   },
   "extends": ["sushi"],
-  "rules": {
-    "arrow-body-style": "off",
-    "no-unused-vars": "off"
-  },
   "parserOptions": {
     "sourceType": "module"
   }

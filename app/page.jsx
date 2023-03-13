@@ -1,11 +1,8 @@
-/* eslint-disable indent, max-len */
 'use client';
-import React from 'react';
 import '../styles/globals.css';
 
 export default () => {
   function openCategory(id) {
-    // eslint-disable-next-line default-case
     switch (id) {
       case '.projects':
         document.querySelector(id).classList.remove('hidden');
@@ -49,7 +46,9 @@ export default () => {
           <li className="text-xl cursor-pointer"><a onClick={() => openCategory('.socials')}>Socials</a></li>
           <li className="text-xl cursor-pointer"><a onClick={() => openCategory('.techs')}>Techs</a></li>
         </ul>
+      </div>
 
+      <div className="min-[576px]:p-20 p-5">
         <div className="projects hidden mt-24">
           <p className="opacity-75 font-bold">PROJECTS</p>
           <div className="flex items-center flex-wrap gap-10 mt-3">
@@ -62,6 +61,11 @@ export default () => {
               <img className="w-full rounded-lg" src="https://media.discordapp.net/attachments/842491790833876992/1082040798507438204/image.png?width=1346&height=671" />
               <h1 className="mt-3 font-bold text-xl">Generate Color</h1>
               <p>A site to generate random colors (Fullstack, Web Design)</p>
+            </a>
+            <a href="https://prismbot.site" target="_blank" className="w-96 h-72 p-3 bg-[#F8F8F9] rounded-xl">
+              <img className="w-full rounded-lg" src="https://media.discordapp.net/attachments/842491790833876992/1084899308807135403/image.png?width=1327&height=671" />
+              <h1 className="mt-3 font-bold text-xl">PrismBot</h1>
+              <p>A Discord Music Bot (Fullstack, Web Design)</p>
             </a>
           </div>
         </div>
