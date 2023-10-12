@@ -1,6 +1,5 @@
-### Hello! You can call me Sushi
-
-I'm Sushi, Software Engineer and Fullstack Developer
+<h1>Hello, welcome to my github profile!</h1>
+<p>I am a programmer that works mainly in the web and software area, with vast experience in html, css, javascript and uses elixir as a hobby.</p>
 
 My Technologys:
 
@@ -12,5 +11,5 @@ My Technologys:
 
 Contact Me:
 
-![Gmail](https://img.shields.io/badge/atsushithesushi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/sushi%230326-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Gmail](https://img.shields.io/badge/guevara.arthur@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Discord](https://img.shields.io/badge/isshushimi-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
